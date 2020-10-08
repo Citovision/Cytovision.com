@@ -1,0 +1,97 @@
+body{
+text-align: center;
+background-color: white;
+}
+h1{
+color:black;
+text-decoration: underline;    
+}
+p{
+color:black;
+font-size:20px;     
+}
+#welcome{
+    background-image: url(http://www.oxforddiagnosticlabs.com/media/about-the-lab.jpg);
+    width: 90%;
+    height: 450px;
+}
+.menu{
+    background-image: url(http://www.oxforddiagnosticlabs.com/media/about-the-lab.jpg);
+}
+#support{
+background-image: url(https://ps.w.org/call-now-button/assets/icon-256x256.png?rev=1793650)    
+}
+#btn1{
+height: 40px;
+font-weight: bold;    
+}
+#healthpackages{
+background-color: aliceblue;
+text-align: center;
+font-size: 30px;    
+}
+#btn2{
+height: 30px;    
+}
+h3{
+text-align: center;
+font-size: 30px;
+}
+#btn3{
+height: 40px;
+text-align: center;
+border-radius: 20px;
+width: 130px;    
+}
+#about{
+text-align: justify;
+font-size: 20px;    
+}
+h1{
+font-size: 25px;    
+}
+h2{
+text-decoration: underline;
+color: #6ab8ff;    
+}
+#div1{
+text-align: match-parent;    
+}
+#div2{
+text-align: match-parent;    
+}
+#div3{
+text-align: match-parent;    
+}
+#div4{
+text-align: match-parent;    
+}
+#div5{
+text-align: match-parent;    
+}
+#img2{
+position: center;    
+}
+#img1{
+position: relative;    
+}
+#div6{
+text-align: right
+}
+#div7{
+text-align: right;
+}
+#div8{
+text-align: right;    
+}
+#div9{
+text-align: right;    
+}
+#di10{
+text-align: right;    
+}    
+#h2id{
+text-align: right;    
+}
+.link 
+{ float: right; color: fuchsia; padding-top: 5px; padding-left: 9px; padding-right: 9px; padding-bottom: 5px; font-family: fantasy; font-size: 20px }
